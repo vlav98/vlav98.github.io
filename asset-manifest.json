@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vlav98.github.io/static/css/main.66d3563e.css",
-    "main.js": "/vlav98.github.io/static/js/main.a1ffd304.js",
-    "static/js/787.6b762c2d.chunk.js": "/vlav98.github.io/static/js/787.6b762c2d.chunk.js",
-    "index.html": "/vlav98.github.io/index.html",
-    "main.66d3563e.css.map": "/vlav98.github.io/static/css/main.66d3563e.css.map",
-    "main.a1ffd304.js.map": "/vlav98.github.io/static/js/main.a1ffd304.js.map",
-    "787.6b762c2d.chunk.js.map": "/vlav98.github.io/static/js/787.6b762c2d.chunk.js.map"
+    "main.css": "/static/css/main.66d3563e.css",
+    "main.js": "/static/js/main.ce27cac4.js",
+    "static/js/787.6b762c2d.chunk.js": "/static/js/787.6b762c2d.chunk.js",
+    "index.html": "/index.html",
+    "main.66d3563e.css.map": "/static/css/main.66d3563e.css.map",
+    "main.ce27cac4.js.map": "/static/js/main.ce27cac4.js.map",
+    "787.6b762c2d.chunk.js.map": "/static/js/787.6b762c2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66d3563e.css",
-    "static/js/main.a1ffd304.js"
+    "static/js/main.ce27cac4.js"
   ]
 }
